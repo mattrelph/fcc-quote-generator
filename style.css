@@ -1,0 +1,41 @@
+body {
+  background-color: White;
+  color: DarkGreen;
+  font-family: "Courier", "monospace";
+  padding-top: 65px;   
+}
+
+footer{
+  margin-top: 75px;
+}
+
+.bigicon{
+  color: DarkGreen;
+  font-size: 5rem;
+  
+}
+
+.bigicon:hover{
+  color: LightGreen;
+  font-size: 4.75rem;
+  text
+  
+}
+
+#innerbox{
+  border-radius: 10px;
+  border: 2px solid DarkGreen;
+  padding: 20px; 
+  font-size: 3rem;  
+  margin-bottom: 30px;
+  /*width: 600px;
+  height: 300px; */
+}
+
+#quoted {
+  text-align: center;
+}
+
+#author{
+    float: right;
+}
